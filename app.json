@@ -1,0 +1,19 @@
+{
+  "id": "0eb76253-90a4-4050-b787-4350b35bba56",
+  "name": "TicTacToe",
+  "publisher": "FWinkler",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "showMyCode": true,
+  "runtime": "2.4"
+}
